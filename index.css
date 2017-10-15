@@ -1,2 +1,13 @@
-h1{color: cyan;}
+h1{color: purple;}
 html{font-family: sans-serif;}
+ul {
+    border: 5px solid purple;
+    padding: 2cm 2cm 2cm 2cm;
+}
+h1 {border: 5px dashed purple}
+h1 { 
+    background: #00ff00 url("smiley.gif") no-repeat fixed center; 
+}
+ul{ 
+    background: #00ff00 url("smiley.gif") no-repeat fixed center; 
+}
